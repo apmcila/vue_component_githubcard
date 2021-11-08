@@ -1,1 +1,1 @@
-# vue_component_githubcard
+# vue component Github Card
